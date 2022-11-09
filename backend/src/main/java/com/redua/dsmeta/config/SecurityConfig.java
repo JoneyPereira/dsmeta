@@ -1,4 +1,4 @@
-package com.redua.dsmeta.Config;
+package com.redua.dsmeta.config;
 
 import java.util.Arrays;
 
